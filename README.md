@@ -1,0 +1,2 @@
+# My-MultiThreadDownloader
+采用纯Java代码设计了一个多线程下载器，并且具有断点续传的功能
